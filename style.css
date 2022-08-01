@@ -1,0 +1,49 @@
+*{
+    background-color:rgb(142, 144, 148) ;
+}
+.header {
+    padding: 20px;
+    text-align: end;
+    font-size: 30px;
+    font-style: normal;
+    color: rgba(13, 0, 87, 0.544);
+margin-bottom: 0%;
+}
+
+
+
+.image {
+    margin: 0%;
+    padding: 0%;
+    position: relative;
+    border: 8px solid grey;
+   
+
+
+}
+
+
+
+.box1 {
+    
+    padding: 250px;
+   
+    box-sizing: border-box;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+}
+
+
+img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+
+.footer{
+   
+    background-color: turquoise;
+    background-size: 200px;
+    text-align: center;
+}
